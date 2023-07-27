@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Nathaëlle  ☕</h1>
 <h3 align="center">Passionnée par le code et le langage <b>Java</b> - j'aime la recherche de solutions et apprendre en permanence !</h3>
-<p align="center">En recherche d'alternance, ma création de projet en est un peu impacté mais je continue à apprendre! </p>
+<p align="center">En recherche d'alternance, je continue à apprendre et faire des projets ! </p>
 <p align="center"> <b> ➡ Recherche une Alternance développeur d'application JAVA </b></p>
 
 <h3 align="left">Réseaux :</h3>
